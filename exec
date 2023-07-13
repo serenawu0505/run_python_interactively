@@ -1,1 +1,2 @@
-exec(open("C:\dev\listings-repo-swu\listings-repo\services\ListingsAPIStackFour\ListingPatch\dummy.py").read())
+type "python" in the terminal and click "enter"
+exec(open("C:/dev/listings-repo-swu/listings-repo/services/ListingsAPIStackFour/ListingPatch/dummy.py").read())
